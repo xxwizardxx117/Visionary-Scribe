@@ -86,7 +86,7 @@ To run the application, follow these steps:
 
 Prompt:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Astral wallpaper composition with nature </i>
 
-![alt text]([Visionary-Scribe/Samples/astral.png](https://github.com/xxwizardxx117/Visionary-Scribe/blob/main/Samples/astral.png))
+![alt text](Samples/astral.png)
 
 
 **Generated Text:**
@@ -103,7 +103,7 @@ The night sky was a canvas of glittering stars, swirling with the light of a dis
 
 Prompt :&nbsp;&nbsp;&nbsp;&nbsp; <i>Fearless shark, ruling the ocean depths, with sharp teeth and powerful presence, by Pixar Animation Studios, by Art Spiegelman, dynamic illustration, dramatic underwater background::2 --ar 2:3 --v 6 --style raw --iw .5 </i>
 
-![alt text](Samples\shark.png)
+![alt text](Samples/shark.png)
 
 
 
