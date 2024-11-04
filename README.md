@@ -79,7 +79,9 @@ To run the application, follow these steps:
 <br>
 <br>
 <br>
+
 ***
+
 **PROMPT GIVEN FOR ASTRAL SKY COMPOSITION**:
 
 Prompt:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Astral wallpaper composition with nature </i>
