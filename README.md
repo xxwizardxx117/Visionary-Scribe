@@ -84,7 +84,7 @@ To run the application, follow these steps:
 
 Prompt:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Astral wallpaper composition with nature </i>
 
-![alt text](Visionary-Scribe/Samples/astral.png)
+![alt text]([Visionary-Scribe/Samples/astral.png](https://github.com/xxwizardxx117/Visionary-Scribe/blob/main/Samples/astral.png))
 
 
 **Generated Text:**
