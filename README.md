@@ -112,3 +112,23 @@ Prompt :&nbsp;&nbsp;&nbsp;&nbsp; <i>Fearless shark, ruling the ocean depths, wit
 * To run the test file first bring them into the main folder where `app.py` is present
 * Just use code runner to run them. Made to check the system working only.
 * Some test files can have errors also. Still working on them. 
+
+
+`Output :`
+![alt text](Samples/outputs.png)
+***
+# **UI/ UX of the APP**
+
+***
+# **UI/ UX of the APP**
+
+<table>
+  <tr>
+    <td><img src="Samples/app_design/imagegen_woinput.png" alt="Image 1" width="300" height="400" style="border-radius: 10px;"/></td>
+    <td><img src="Samples/app_design/genwoinp.png" alt="Image 2" width="300" height="400" style="border-radius: 10px;"/></td>
+  </tr>
+  <tr>
+    <td colspan="2"><center><img src="Samples/app_design/combinedwork.png" alt="Image 3" width="600" style="border-radius: 10px;"/>
+    </center></td>
+  </tr>
+</table>
