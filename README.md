@@ -119,8 +119,6 @@ Prompt :&nbsp;&nbsp;&nbsp;&nbsp; <i>Fearless shark, ruling the ocean depths, wit
 ***
 # **UI/ UX of the APP**
 
-***
-# **UI/ UX of the APP**
 
 <table>
   <tr>
