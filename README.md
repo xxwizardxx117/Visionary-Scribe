@@ -73,8 +73,11 @@ To run the application, follow these steps:
 | 720 * 720   |                |                   |                       |
 | 720 * 1024  |                |                   |                       |
 | 1024 * 1024 | 51 sec         |     40-50min              | 50                    |
+* These scores are evaluated for RTX 3060 Mobile graphic card. If  higher spec hardware is used score may vary.
 
 * This is still begin worked upon and times will be added soon.
+
+
 <br>
 <br>
 <br>
