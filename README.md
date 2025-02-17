@@ -53,7 +53,7 @@ To run the application, follow these steps:
 
 1. `RTX 3060` or GPU with `6gb` of V-RAM (Cpu off-loading will happen automatically)
 
-2. Processor above `Intel i5` or `AMD Ryzen 7` or above. (most likely as i didn't look into this part  )
+2. Processor above `Intel i5` or `AMD Ryzen 7` or above. (most likely as i didn't look into this part)
 <br>
 <br>
 
@@ -72,7 +72,8 @@ To run the application, follow these steps:
 | 512 * 1024  | 18 sec         | 15.3 min          | 50                    |
 | 720 * 720   |                |                   |                       |
 | 720 * 1024  |                |                   |                       |
-| 1024 * 1024 | 51 sec         |     40-50min              | 50                    |
+| 1024 * 1024 | 51 sec         |     40-50 min     | 50                    |
+
 * These scores are evaluated for RTX 3060 Mobile graphic card. If  higher spec hardware is used score may vary.
 
 * This is still begin worked upon and times will be added soon.
