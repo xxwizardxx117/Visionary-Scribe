@@ -1,5 +1,10 @@
 # Visionary Scribe
 
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![Status](https://img.shields.io/badge/status-development-orange.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
+
 To run the application, follow these steps:
 
 1. **Install Dependencies**: Create a new environment and ensure you have all the required dependencies installed. You can do this by running the following command in your terminal:
